@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "332490172801",
+    "firebase_url": "https://dreamway-b43b0.firebaseio.com",
+    "project_id": "dreamway-b43b0",
+    "storage_bucket": "dreamway-b43b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332490172801:android:4bd634b9c9d48b7a",
+        "android_client_info": {
+          "package_name": "com.andev.dreamway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332490172801-0qf4icle3ou43i5l907v7va03tfhitek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andev.dreamway",
+            "certificate_hash": "b8c84dc3c2d0212cf6ba1e5edc702179339f3986"
+          }
+        },
+        {
+          "client_id": "332490172801-1nglmm3btgbahql8jn4psvn03tf0et82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4_uvfAfEPnTuu2TvKh4HrVW2h_RJ9aE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332490172801-1nglmm3btgbahql8jn4psvn03tf0et82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
